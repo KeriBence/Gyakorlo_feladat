@@ -57,3 +57,11 @@ p{
     text-align: justify;
     text-indent: 15px;
 }
+
+ul{
+    float: left;
+}
+
+li{
+    margin-left: 40px;
+}
