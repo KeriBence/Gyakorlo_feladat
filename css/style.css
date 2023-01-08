@@ -15,7 +15,16 @@ h1{
 }
 
 h2{    
-    margin-top: 10px;    
+    margin-top: 10px;
+    font-style: bold;
+    color: #416618;
+    margin-left: 3px ;
+    border-left: dotted; 
+    font-variant: small-caps;  
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 h3{    
